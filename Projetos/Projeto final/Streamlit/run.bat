@@ -1,0 +1,1 @@
+streamlit.exe run app_de_receitas.py
