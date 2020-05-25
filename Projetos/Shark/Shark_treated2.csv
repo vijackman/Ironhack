@@ -1,0 +1,290 @@
+Fatal (Y/N),Country,Fatal (Y/N)
+N,usa,1842
+N,australia,910
+N,south africa,422
+Y,australia,341
+Y,usa,246
+Y,south africa,137
+N,new zealand,94
+N,bahamas,86
+N,papua new guinea,75
+N,brazil,60
+Y,papua new guinea,56
+N,italy,48
+Y,mexico,43
+Y,brazil,40
+N,fiji,40
+N,mexico,39
+Y,philippines,38
+N,new caledonia,32
+N,reunion,30
+N,spain,29
+Y,new zealand,28
+Y,reunion,27
+Y,cuba,24
+Y,fiji,24
+N,egypt,23
+N,mozambique,23
+N,philippines,20
+N,french polynesia,20
+Y,mozambique,20
+Y,new caledonia,19
+Y,panama,19
+N,japan,18
+Y,croatia,18
+Y,italy,18
+Y,india,18
+N,cuba,17
+Y,hong kong,17
+N,iran,16
+N,solomon islands,16
+N,england,16
+Y,greece,15
+Y,indonesia,14
+Y,japan,14
+Y,egypt,13
+Y,iran,13
+N,vietnam,13
+Y,jamaica,13
+N,india,13
+N,panama,13
+Y,bahamas,12
+N,bermuda,12
+N,croatia,12
+Y,solomon islands,12
+N,tonga,12
+N,pacific ocean,11
+N,marshall islands,11
+N,sri lanka,11
+N,jamaica,10
+N,iraq,9
+Y,vanuatu,9
+Y,spain,9
+N,greece,9
+Y,costa rica,8
+N,france,8
+N,scotland,8
+N,united kingdom,8
+N,canada,8
+N,turkey,8
+N,south atlantic ocean,8
+N,atlantic ocean,8
+Y,pacific ocean,8
+N,ecuador,8
+N,columbia,7
+Y,yemen,7
+N,hong kong,7
+Y,atlantic ocean,7
+N,senegal,6
+N,taiwan,6
+N,samoa,6
+N,indonesia,6
+N,venezuela,6
+Y,tanzania,6
+Y,tonga,6
+Y,kenya,6
+Y,south korea,6
+Y,new guinea,6
+Y,seychelles,6
+N,north atlantic ocean,5
+Y,somalia,5
+N,israel,5
+N,palau,5
+Y,caribbean sea,5
+N,azores,5
+N,north pacific ocean,5
+Y,venezuela,5
+Y,nicaragua,5
+Y,sierra leone,5
+Y,indian ocean,5
+N,mauritius,5
+Y,madagascar,4
+N,sierra leone,4
+N,vanuatu,4
+N,saudi arabia,4
+N,russia,4
+N,costa rica,4
+N,chile,4
+Y,singapore,4
+Y,south atlantic ocean,4
+Y,new britain,4
+Y,okinawa,4
+Y,chile,4
+N,new guinea,4
+N,kenya,4
+Y,dominican republic,4
+Y,senegal,4
+Y,kiribati,4
+N,madagascar,3
+Y,turkey,3
+Y,grenada,3
+Y,american samoa,3
+N,libya,3
+Y,guinea,3
+Y,nigeria,3
+N,china,3
+N,mid atlantic ocean,3
+N,micronesia,3
+N,turks & caicos,3
+N,malaysia,3
+N,sudan,3
+Y,taiwan,3
+Y,barbados,3
+Y,thailand,3
+Y,liberia,3
+N,caribbean sea,3
+Y,france,3
+Y,malta,3
+Y,iraq,3
+Y,england,3
+Y,burma,3
+N,persian gulf,3
+Y,bermuda,3
+Y,china,3
+N,okinawa,2
+N,nicaragua,2
+N,south korea,2
+N,guam,2
+N,kiribati,2
+N,tanzania,2
+N,indian ocean,2
+Y,south pacific ocean,2
+N,haiti,2
+N,singapore,2
+Y,portugal,2
+N,seychelles,2
+Y,north pacific ocean,2
+N,new britain,2
+Y,sri lanka,2
+N,johnston island,2
+N,malta,2
+N,thailand,2
+Y,united kingdom,2
+Y,marshall islands,2
+Y,belize,2
+Y,canada,2
+Y,cape verde,2
+Y,columbia,2
+Y,turks & caicos,2
+Y,libya,2
+N,dominican republic,2
+Y,el salvador,2
+Y,french polynesia,2
+N,barbados,2
+Y,lebanon,2
+Y,guam,2
+Y,honduras,2
+Y,mauritius,2
+N,cayman islands,2
+Y,montenegro,2
+N,trinidad & tobago,2
+N,el salvador,2
+N,united arab emirates (uae),2
+N,uruguay,2
+Y,mid atlantic ocean,2
+N,curacao,1
+N,kuwait,1
+N,federated states of micronesia,1
+N,grenada,1
+N,belize,1
+Y,sudan,1
+Y,uruguay,1
+N,grand cayman,1
+N,lebanon,1
+Y,tuvalu,1
+N,georgia,1
+Y,vietnam,1
+N,asia?,1
+N,argentina,1
+N,antigua,1
+N,angola,1
+N,falkland islands,1
+Y,solomon islands / vanuatu,1
+N,british isles,1
+Y,trinidad & tobago,1
+Y,tunisia,1
+N,honduras,1
+Y,the balkans,1
+Y,st helena,1
+N,egypt / israel,1
+N,central pacific,1
+Y,southwest pacific ocean,1
+N,guyana,1
+Y,syria,1
+N,iran / iraq,1
+N,cape verde,1
+N,burma,1
+N,british west indies,1
+N,italy / croatia,1
+N,british new guinea,1
+Y,ireland,1
+N,puerto rico,1
+N,martinique,1
+Y,bangladesh,1
+Y,coast of africa,1
+Y,ceylon (sri lanka),1
+Y,central pacific,1
+Y,british virgin islands,1
+Y,between portugal & india,1
+Y,bay of bengal,1
+Y,bahrein,1
+Y,mediterranean sea?,1
+Y,mayotte,1
+Y,aruba,1
+Y,andaman / nicobar islandas,1
+Y,algeria,1
+N,yemen,1
+Y,mediterranean sea,1
+Y,cook islands,1
+Y,maldive islands,1
+Y,crete,1
+Y,malaysia,1
+Y,cyprus,1
+Y,diego garcia,1
+Y,djibouti,1
+Y,equatorial guinea / cameroon,1
+Y,gabon,1
+Y,ghana,1
+Y,greenland,1
+Y,guatemala,1
+Y,gulf of aden,1
+Y,haiti,1
+Y,korea,1
+Y,indian ocean?,1
+Y,java,1
+Y,western samoa,1
+N,united arab emirates,1
+N,mediterranean sea,1
+N,northern arabian sea,1
+Y,samoa,1
+N,palestinian territories,1
+Y,san domingo,1
+N,ocean,1
+N,norway,1
+N,northern mariana islands,1
+N,north sea,1
+Y,monaco,1
+N,nigeria,1
+Y,saudi arabia,1
+N,netherlands antilles,1
+N,namibia,1
+N,montenegro,1
+N,mid-pacifc ocean,1
+Y,red sea / indian ocean,1
+N,portugal,1
+N,red sea,1
+N,red sea?,1
+Y,persian gulf,1
+Y,paraguay,1
+N,slovenia,1
+N,somalia,1
+N,south china sea,1
+N,southwest pacific ocean,1
+Y,nevis,1
+N,st. maartin,1
+N,st. martin,1
+N,sudan?,1
+Y,namibia,1
+N,tasman sea,1
+N,tunisia,1
+N,admiralty islands,1
